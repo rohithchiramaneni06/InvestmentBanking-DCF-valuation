@@ -1,7 +1,6 @@
 # Investment Banking DCF Valuation Simulation – Happy Hour Co.
 
-This repository showcases a full investment banking-style valuation and communication workflow.  
-It demonstrates expertise in **financial modeling, valuation, scenario analysis, and professional presentation** based on the *Happy Hour Co.* case study.
+This repository showcases a full **investment banking-style job simulation**, demonstrating real-world skills in valuation, financial modeling, scenario analysis, and professional communication.
 
 ---
 
@@ -9,22 +8,23 @@ It demonstrates expertise in **financial modeling, valuation, scenario analysis,
 
 | File | Description |
 |------|--------------|
-| `NBA ADVANCED - Happy Hour Co - DCF model v2.xlsx` | Base DCF valuation model with Perpetuity Growth and Exit Multiple approaches. |
-| `NBA Happy Hour Co - DCF model - Task 4 - Revised Template.xlsx` | **Revised DCF model reflecting sentiment change** post-operational incident (fire impact) and updated financials. |
-| `DCF template_v1.pptx` | Professional DCF presentation summarizing base case valuation and sensitivities. |
-| `Task 1 - Email Template v2.docx` | Analyst memo summarizing potential M&A targets and recommendations for Worldwide Brewing Co. |
-| `Task 2 Template.pptx` | Company overview and indicative valuation summary for Happy Hour Co. |
-| `Task 4 - Template - Revised.pptx` | Updated DCF presentation and email reflecting revised assumptions after fire impact. |
+| `DCF_Model_HappyHourCo.xlsx` | Core DCF valuation model including Perpetuity Growth and Exit Multiple methods. |
+| `DCF_Model_HappyHourCo_Revised.xlsx` | **Revised DCF model reflecting sentiment change** after the fire incident (updated FY21 assumptions). |
+| `DCF_Presentation_HappyHourCo.pptx` | Professional DCF deck summarizing valuation outputs, assumptions, and sensitivities. |
+| `M&A_Targets_Email.docx` | Analyst email summarizing potential M&A targets and recommendations for Worldwide Brewing Co. |
+| `HappyHourCo_CompanyOverview.pptx` | Company overview deck showing key financials, ownership, and indicative valuation. |
+| `Management_ValuationUpdate.pptx` | Final management presentation and email summarizing the revised DCF and sentiment-adjusted valuation. |
 
 ---
 
 ## 💼 Project Overview
 
-This simulation replicates a real-world **investment banking valuation and communication process**, including:
-1. **Initial DCF Valuation** – Base case analysis with sensitivity to WACC and terminal growth rate.  
-2. **M&A Target Screening** – Assessing strategic fit and acquisition feasibility across Asia.  
-3. **Revised Sentiment Analysis** – Incorporating operational disruptions (fire) and reassessing valuation impact.  
-4. **Executive Communication** – Writing an investor-style management email summarizing updated insights.  
+This project replicates a **front-office investment banking workflow**, covering:
+1. **DCF valuation** using multiple terminal value approaches  
+2. **Sensitivity analysis** for WACC and growth rate  
+3. **M&A screening** of potential acquisition targets  
+4. **Revised sentiment modeling** after an operational event  
+5. **Professional presentation & email communication** for management
 
 ---
 
@@ -39,47 +39,45 @@ This simulation replicates a real-world **investment banking valuation and commu
 ---
 
 ## 🧠 Key Skills Demonstrated
-
-- Financial Modeling & Valuation (DCF, WACC, Sensitivity)
-- Scenario & Sentiment Analysis (Base vs Revised)
-- Strategic M&A Assessment
-- Client Communication & Presentation Skills
-- Excel, PowerPoint, and Word Integration in IB Workflow
+- Financial Modelling (DCF, WACC, Terminal Value)
+- Sensitivity & Scenario Analysis  
+- Sentiment Change Valuation  
+- M&A Target Evaluation  
+- Professional Presentation & Client Communication  
 
 ---
 
 ## ⚙️ Tools Used
-- **Microsoft Excel** – for DCF modeling and scenario simulations  
-- **PowerPoint** – for professional client and investor presentation design  
-- **Word** – for memo writing and management communication  
+- **Excel** – for valuation modeling and scenario analysis  
+- **PowerPoint** – for management presentations  
+- **Word** – for email and memo preparation  
 
 ---
 
-## 📈 Sentiment Change Impact
+## 📈 Sentiment Change Analysis
 
-Following a fire incident affecting FY21 production:
-- Revenue revised to **$1,100m**
-- Gross margin adjusted to **50%**
-- Resulted in **~10% decrease in enterprise value**
-- Outlook remains **structurally intact** due to strong brand equity and insured asset base
+Following the operational fire event:
+- FY21 revenue revised to **$1,100m**  
+- Gross margin adjusted to **50%**  
+- Resulted in **~10% decrease in Enterprise Value**  
+- Long-term fundamentals remain intact due to brand strength and insurance coverage  
 
-This highlights how **operational sentiment shifts** can temporarily affect valuation without altering long-term fundamentals.
+This analysis highlights how **operational sentiment shifts** affect short-term valuation but not long-term intrinsic value.
 
 ---
 
 ## 📂 Outcome
-
-This project illustrates a complete front-office investment banking workflow — from valuation modeling and sensitivity testing to management communication and sentiment analysis — as expected in real-world deal teams.
+A comprehensive case study demonstrating end-to-end **valuation, communication, and analytical rigor** aligned with real-world investment banking deliverables.
 
 ---
 
 ### 👤 Author
 **Rohith Chowdhary**  
 Investment Banking & Valuation Analyst  
-📧 [Add your email or LinkedIn here]  
+📧 [Your Email or LinkedIn URL]  
 🌐 [GitHub Profile Link]
 
 ---
 
 ### 🏷️ Tags
-`DCF` `Valuation` `Investment Banking` `M&A` `Sentiment Analysis` `Finance` `Excel` `PowerPoint` `Case Study` `Financial Modelling`
+`DCF` `Valuation` `Investment Banking` `M&A` `Sentiment Analysis` `Financial Modelling` `Excel` `PowerPoint` `Case Study` `Finance`
