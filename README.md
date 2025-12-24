@@ -74,8 +74,7 @@ A comprehensive case study demonstrating end-to-end **valuation, communication, 
 ### 👤 Author
 **Rohith Chowdhary**  
 Investment Banking & Valuation Analyst  
-📧 [Your Email or LinkedIn URL]  
-🌐 [GitHub Profile Link]
+
 
 ---
 
